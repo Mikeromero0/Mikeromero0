@@ -4,7 +4,7 @@
 
 I support applications for a living, and build them the rest of the time.
 
-<sub>Houston, TX &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mikeromero0/)</sub>
+<sub>Houston, TX &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/mikeromero0/"><img src="./assets/linkedin.svg" width="14" alt="" align="absmiddle"> LinkedIn</a></sub>
 
 <br>
 
@@ -13,7 +13,7 @@ I support applications for a living, and build them the rest of the time.
 <a href="https://clusterops.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cluster-ops-logo-oscuro.svg">
-    <img src="./assets/cluster-ops-logo-claro.svg" height="30" alt="Cluster Ops">
+    <img src="./assets/cluster-ops-logo-claro.svg" height="40" alt="Cluster Ops">
   </picture>
 </a>
 
