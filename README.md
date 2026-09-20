@@ -15,7 +15,7 @@ Focused on product engineering, AI-assisted workflows, and software that turns c
 ### Cluster Ops
 **Field Operations Platform**
 
-<img src="./assets/cluster-solar-field.png" width="100%" alt="Cluster Ops field operations platform shown in a solar construction environment with crew activity, progress visibility, weather context, and the mobile application.">
+<img src="./assets/cluster-ops-hero.jpg" width="100%" alt="Cluster Ops field operations platform — solar field crews, operational progress, weather context, reporting, and mobile workflows in one connected system.">
 
 **Run the field from one place.**
 
