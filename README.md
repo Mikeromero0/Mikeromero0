@@ -6,7 +6,7 @@ Building practical systems for real-world operations, automation, and decision s
 
 Focused on product engineering, AI-assisted workflows, and software that turns complex processes into simple, usable tools.
 
-<sub>Houston, TX &nbsp; · &nbsp; Open to Software / Automation opportunities</sub>
+<sub>Houston, TX</sub>
 
 <br>
 
@@ -32,25 +32,25 @@ From morning check-in to final report, Cluster Ops brings crews, schedules, prog
     <td width="33%" valign="top">
       <img src="./assets/orbit-icon.svg" width="34" alt="ORBIT icon"><br><br>
       <strong>ORBIT</strong><br>
-      <sub>AI-Assisted Workflow Automation</sub><br><br>
-      Human-in-the-loop workflows for research, personalization, outreach, and controlled task execution.
+      <sub>Workflow Automation</sub><br><br>
+      Research, outreach, and controlled task execution, with a human in the loop.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/redline-icon.svg" width="34" alt="REDLINE icon"><br><br>
       <strong>REDLINE</strong><br>
       <sub>Market Decision System</sub><br><br>
-      Desktop software for market context, decision tracking, trade review, and execution discipline.
+      Market context, decision tracking, and trade review on the desktop.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/atomx-icon.svg" width="34" alt="AtomX icon"><br><br>
       <strong>AtomX</strong><br>
       <sub>Personal Finance Workspace</sub><br><br>
-      A unified workspace for cash flow, recurring obligations, transaction visibility, and financial goals.
+      Cash flow, recurring bills, and goals in one workspace.
     </td>
   </tr>
 </table>
 
 ## Engineering Focus
 
-Applied AI · Workflow Automation · Python · APIs<br>
-Desktop Applications · Linux · Data Workflows · Product Engineering
+TypeScript · React Native · Python · Node · Postgres · APIs<br>
+Applied AI · Workflow Automation · Desktop Applications · Linux · Product Engineering
