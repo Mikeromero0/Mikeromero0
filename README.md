@@ -2,62 +2,26 @@
 
 **Software Developer · Applied AI & Automation**
 
-Building practical software for field operations,<br>
+Building practical software for real-world operations,<br>
 automation, and data-driven decision making.
+
+Currently focused on product engineering, AI-assisted workflows,<br>
+and systems that connect software with real operational problems.
 
 <sub>Houston, TX &nbsp; · &nbsp; Open to Software / Automation opportunities</sub>
 
 <br>
 
-## Selected work
+## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/work-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/work-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <img src="assets/work-light.svg" width="100%" alt="Cluster Ops — Field Operations Platform: offline-first crew coordination, progress tracking, communication and operational visibility. ORBIT — AI-Assisted Workflow Automation: human-in-the-loop research, personalization, outreach and controlled execution. REDLINE — Market Decision System: desktop market context, decision tracking, trade review and execution discipline. AtomX — Personal Finance Workspace: cash flow, recurring bills, transactions and financial goals.">
+</picture>
 
-### Cluster Ops
+## Engineering Focus
 
-**Field Operations Platform**
-
-Offline-first tools for crews, progress tracking, communication, and field coordination.
-
-</td>
-<td width="50%" valign="top">
-
-### ORBIT
-
-**AI-Assisted Workflow Automation**
-
-Human-in-the-loop workflows for research, outreach, and controlled task execution.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### REDLINE
-
-**Market Decision System**
-
-Desktop software for market context, decision tracking, and trading discipline.
-
-</td>
-<td width="50%" valign="top">
-
-### AtomX
-
-**Personal Finance Workspace**
-
-Cash-flow visibility, recurring bills, transactions, and financial goals.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Engineering focus
-
-Applied AI &nbsp; · &nbsp; Workflow Automation &nbsp; · &nbsp; Desktop Apps &nbsp; · &nbsp; Product Engineering
-
-Python &nbsp; · &nbsp; APIs & Integrations &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Data Workflows
+Applied AI · Workflow Automation · Python · APIs<br>
+Desktop Applications · Linux · Data Workflows · Product Engineering
