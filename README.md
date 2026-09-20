@@ -1,8 +1,8 @@
 # Michael Romero
 
-**Software engineer · Field operations**
+**Application Support · Product Builder**
 
-I build software for work that happens outdoors, offline, and with gloves on.
+I support applications for a living, and build them the rest of the time.
 
 <sub>Houston, TX &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mikeromero0/)</sub>
 
