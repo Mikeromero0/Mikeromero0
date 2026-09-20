@@ -2,11 +2,9 @@
 
 **Software Developer · Applied AI & Automation**
 
-Building practical software for real-world operations,<br>
-automation, and data-driven decision making.
+Building practical systems for real-world operations, automation, and decision support.
 
-Currently focused on product engineering, AI-assisted workflows,<br>
-and systems that connect software with real operational problems.
+Focused on product engineering, AI-assisted workflows, and software that turns complex processes into simple, usable tools.
 
 <sub>Houston, TX &nbsp; · &nbsp; Open to Software / Automation opportunities</sub>
 
@@ -14,12 +12,43 @@ and systems that connect software with real operational problems.
 
 ## Selected Work
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikeromero0/Mikeromero0/2d33e50f9de883b30f0268d67aa44366d77bc094/assets/work-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mikeromero0/Mikeromero0/2d33e50f9de883b30f0268d67aa44366d77bc094/assets/work-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikeromero0/Mikeromero0/2d33e50f9de883b30f0268d67aa44366d77bc094/assets/work-dark.svg">
-  <img src="https://raw.githubusercontent.com/Mikeromero0/Mikeromero0/2d33e50f9de883b30f0268d67aa44366d77bc094/assets/work-light.svg" width="100%" alt="Cluster Ops — Field Operations Platform: crew coordination, progress tracking, communication and operational visibility. ORBIT — AI-Assisted Workflow Automation: human-in-the-loop research, personalization, outreach and controlled execution. REDLINE — Market Decision System: desktop market context, decision tracking, trade review and execution discipline. AtomX — Personal Finance Workspace: cash flow, recurring bills, transactions and financial goals.">
-</picture>
+### Cluster Ops
+**Field Operations Platform**
+
+<img src="./assets/cluster-solar-field.png" width="100%" alt="Cluster Ops field operations platform shown in a solar construction environment with crew activity, progress visibility, weather context, and the mobile application.">
+
+**Run the field from one place.**
+
+From morning check-in to final report, Cluster Ops brings crews, schedules, progress, materials, communication, weather, site activity, documentation, and reporting into one connected operational system.
+
+<sub>CREW OPERATIONS &nbsp; · &nbsp; SCHEDULING &nbsp; · &nbsp; SITE INTELLIGENCE &nbsp; · &nbsp; MATERIALS &nbsp; · &nbsp; REPORTING</sub>
+
+<br>
+
+### Additional Work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="./assets/orbit-icon.svg" width="34" alt="ORBIT icon"><br><br>
+      <strong>ORBIT</strong><br>
+      <sub>AI-Assisted Workflow Automation</sub><br><br>
+      Human-in-the-loop workflows for research, personalization, outreach, and controlled task execution.
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/redline-icon.svg" width="34" alt="REDLINE icon"><br><br>
+      <strong>REDLINE</strong><br>
+      <sub>Market Decision System</sub><br><br>
+      Desktop software for market context, decision tracking, trade review, and execution discipline.
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/atomx-icon.svg" width="34" alt="AtomX icon"><br><br>
+      <strong>AtomX</strong><br>
+      <sub>Personal Finance Workspace</sub><br><br>
+      A unified workspace for cash flow, recurring obligations, transaction visibility, and financial goals.
+    </td>
+  </tr>
+</table>
 
 ## Engineering Focus
 
