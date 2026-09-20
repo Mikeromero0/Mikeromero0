@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Cluster Ops</title>
+  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="14.875923176276444" y1="12.8" x2="49.12" y2="51.20"><stop offset="0" stop-color="#3882F6"/><stop offset="1" stop-color="#885CF6"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" fill="#081220"/>
+  <path d="M37.18 48.38 L16.60 37.90 L16.60 36.14 L20.17 34.32 L37.18 42.99 Z" fill="url(#g)" stroke="url(#g)" stroke-width="3.45" stroke-linejoin="round"/>
+  <path d="M47.40 27.34 L47.40 43.32 L42.59 40.87 L42.59 24.89 Z" fill="url(#g)" stroke="url(#g)" stroke-width="3.45" stroke-linejoin="round"/>
+  <path d="M37.18 21.01 L16.60 31.50 L16.60 26.10 L37.18 15.62 Z" fill="url(#g)" stroke="url(#g)" stroke-width="3.45" stroke-linejoin="round"/>
+</svg>
