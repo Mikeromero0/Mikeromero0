@@ -1,13 +1,63 @@
 # Michael Romero
 
-**Software Developer · AI Applications & Automation**
+**Software Developer · Applied AI & Automation**
 
-I build field tools, AI workflows, desktop applications, and personal finance software.
+Building practical software for field operations,<br>
+automation, and data-driven decision making.
+
+<sub>Houston, TX &nbsp; · &nbsp; Open to Software / Automation opportunities</sub>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/selected-work-light.svg">
-  <img alt="Selected work — Cluster Ops: offline field progress. ORBIT: AI-assisted outreach with human review. REDLINE: desktop market context and decision tracking. AtomX: bank activity, bills and goals." src="assets/selected-work-light.svg" width="100%">
-</picture>
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cluster Ops
+
+**Field Operations Platform**
+
+Offline-first tools for crews, progress tracking, communication, and field coordination.
+
+</td>
+<td width="50%" valign="top">
+
+### ORBIT
+
+**AI-Assisted Workflow Automation**
+
+Human-in-the-loop workflows for research, outreach, and controlled task execution.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### REDLINE
+
+**Market Decision System**
+
+Desktop software for market context, decision tracking, and trading discipline.
+
+</td>
+<td width="50%" valign="top">
+
+### AtomX
+
+**Personal Finance Workspace**
+
+Cash-flow visibility, recurring bills, transactions, and financial goals.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Engineering focus
+
+Applied AI &nbsp; · &nbsp; Workflow Automation &nbsp; · &nbsp; Desktop Apps &nbsp; · &nbsp; Product Engineering
+
+Python &nbsp; · &nbsp; APIs & Integrations &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Data Workflows
