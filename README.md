@@ -1,27 +1,29 @@
 # Michael Romero
 
-**Software Developer · Applied AI & Automation**
+**Software engineer · Field operations**
 
-Building practical systems for real-world operations, automation, and decision support.
+I build software for work that happens outdoors, offline, and with gloves on.
 
-Focused on product engineering, AI-assisted workflows, and software that turns complex processes into simple, usable tools.
-
-<sub>Houston, TX</sub>
+<sub>Houston, TX &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mikeromero0/)</sub>
 
 <br>
 
 ## Selected Work
 
-### Cluster Ops
-**Field Operations Platform**
+<a href="https://clusterops.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cluster-ops-logo-oscuro.svg">
+    <img src="./assets/cluster-ops-logo-claro.svg" height="30" alt="Cluster Ops">
+  </picture>
+</a>
 
-<img src="./assets/cluster-ops-hero.jpg" width="100%" alt="Cluster Ops field operations platform — solar field crews, operational progress, weather context, reporting, and mobile workflows in one connected system.">
+**Field execution for utility-scale solar construction.** &nbsp; [clusterops.app](https://clusterops.app)
 
-**Run the field from one place.**
+**Reads the plan.** &nbsp;A 21-sheet blueprint set becomes arrays, rows and obstacles. Nobody retypes a drawing.<br>**Runs the day.** &nbsp;Attendance, install progress, blockers, material requests and the daily log — written by the crew on the roof, offline.<br>**Answers without you there.** &nbsp;A superintendent covering four sites reads the day without driving to it.
 
-From morning check-in to final report, Cluster Ops brings crews, schedules, progress, materials, communication, weather, site activity, documentation, and reporting into one connected operational system.
+The blueprint is the screen. Nobody types a percentage. Weather follows the site, not the phone. It measures the work, never the worker.
 
-<sub>CREW OPERATIONS &nbsp; · &nbsp; SCHEDULING &nbsp; · &nbsp; SITE INTELLIGENCE &nbsp; · &nbsp; MATERIALS &nbsp; · &nbsp; REPORTING</sub>
+<sub>OFFLINE-FIRST &nbsp; · &nbsp; EVENT-SOURCED &nbsp; · &nbsp; CAD GEOMETRY &nbsp; · &nbsp; ROW-LEVEL SECURITY</sub>
 
 <br>
 
@@ -32,25 +34,25 @@ From morning check-in to final report, Cluster Ops brings crews, schedules, prog
     <td width="33%" valign="top">
       <img src="./assets/orbit-icon.svg" width="34" alt="ORBIT icon"><br><br>
       <strong>ORBIT</strong><br>
-      <sub>Workflow Automation</sub><br><br>
-      Research, outreach, and controlled task execution, with a human in the loop.
+      <sub>Outreach a person signs</sub><br><br>
+      Research and drafting run on their own. Nothing sends until someone says yes.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/redline-icon.svg" width="34" alt="REDLINE icon"><br><br>
       <strong>REDLINE</strong><br>
-      <sub>Market Decision System</sub><br><br>
-      Market context, decision tracking, and trade review on the desktop.
+      <sub>Decisions, not execution</sub><br><br>
+      Market context and trade review. It never places an order, by design.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/atomx-icon.svg" width="34" alt="AtomX icon"><br><br>
       <strong>AtomX</strong><br>
-      <sub>Personal Finance Workspace</sub><br><br>
-      Cash flow, recurring bills, and goals in one workspace.
+      <sub>The month, before it starts</sub><br><br>
+      Cash flow, recurring bills and goals, seen ahead instead of after.
     </td>
   </tr>
 </table>
 
-## Engineering Focus
+## Engineering
 
-TypeScript · React Native · Python · Node · Postgres · APIs<br>
-Applied AI · Workflow Automation · Desktop Applications · Linux · Product Engineering
+TypeScript · React Native · Python · Node · Postgres<br>
+Offline-first sync · Event sourcing · PDF and CAD geometry · Desktop apps · Linux
